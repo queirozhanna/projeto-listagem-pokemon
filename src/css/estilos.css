@@ -26,6 +26,7 @@ header .imagem-botao{
 header #botao-alterar-tema{
     background: none;
     color: none;
+	border: none
 }
 
 header .logo:hover,
